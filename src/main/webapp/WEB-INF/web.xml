@@ -1,0 +1,42 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <welcome-file-list>
+  <welcome-file>home.html</welcome-file>
+  </welcome-file-list>
+  <!-- <servlet>
+  <servlet-name>abc</servlet-name>
+  <servlet-class>demo.Save</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>abc</servlet-name>
+  <url-pattern>/save</url-pattern>
+  </servlet-mapping> 
+  
+  
+  <servlet>
+  <servlet-name>ghi</servlet-name>
+  <servlet-class>demo.controller.GeTStudentById</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>ghi</servlet-name>
+  <url-pattern>/getbyid</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+  <servlet-name>dtr</servlet-name>
+  <servlet-class>demo.dto.SaveStudent</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>dtr</servlet-name>
+  <url-pattern>/saveStudent</url-pattern>
+  </servlet-mapping> -->
+  
+</web-app>
